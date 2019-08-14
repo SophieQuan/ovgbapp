@@ -100,8 +100,8 @@ header {
     left: 0;
     right: 0;
     margin: auto;
-    animation: logoAppear 2s ease-in-out forwards,
-               moveLogo 2.5s 5s ease-in-out forwards;
+    animation: logoAppear 1s ease-in-out forwards,
+               moveLogo 1s 5s ease-in-out forwards;
 }
 
 #welcomeText p {
